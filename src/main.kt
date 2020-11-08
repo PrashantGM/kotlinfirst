@@ -20,3 +20,4 @@ fun mult(a:Int,b:Int){
     val c=a*b
     println("Multi of $a and $b is $c")
 }
+//changes
